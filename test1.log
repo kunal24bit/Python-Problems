@@ -1,0 +1,25 @@
+2021-08-26 03:39:10,895 This is a first warning of my program to modified it.
+2021-08-26 03:39:11,135 This is the error meassage
+2021-08-26 03:39:11,919 Error has occured
+2021-08-26 03:39:11,920 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-18-2d3326bf5500>", line 6, in tes
+    div = a/b
+ZeroDivisionError: division by zero
+2021-08-26 03:40:26,861 This is a first warning of my program to modified it.
+2021-08-26 03:40:27,143 This is the error meassage
+2021-08-26 03:40:29,452 Error has occured
+2021-08-26 03:40:29,453 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-33-2d3326bf5500>", line 6, in tes
+    div = a/b
+ZeroDivisionError: division by zero
+2021-08-26 03:50:34,965 this is the first warning
+2021-08-26 03:52:55,549 This is the second error
+2021-08-26 03:52:55,550 This is for 
+2021-08-26 03:52:55,550 This is my ecpetion log
+NoneType: None
+2021-08-26 03:53:14,898 This is the second error
+2021-08-26 03:53:14,899 This is for critical
+2021-08-26 03:53:14,900 This is my ecpetion log
+NoneType: None
